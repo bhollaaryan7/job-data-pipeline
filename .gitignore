@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Data files (optional but recommended)
+data/raw/
+data/processed/
+
+# Database
+jobs.db
